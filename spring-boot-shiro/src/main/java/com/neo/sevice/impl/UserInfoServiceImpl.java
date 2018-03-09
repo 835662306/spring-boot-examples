@@ -1,6 +1,6 @@
 package com.neo.sevice.impl;
 
-import com.neo.dao.UserInfoDao;
+import com.neo.Repository.UserInfoDao;
 import com.neo.entity.UserInfo;
 import com.neo.sevice.UserInfoService;
 import org.springframework.stereotype.Service;

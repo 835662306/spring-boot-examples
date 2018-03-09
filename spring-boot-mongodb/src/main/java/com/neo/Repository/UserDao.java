@@ -1,4 +1,4 @@
-package com.neo.dao;
+package com.neo.Repository;
 
 import com.neo.entity.UserEntity;
 

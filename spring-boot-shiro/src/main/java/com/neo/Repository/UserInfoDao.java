@@ -1,4 +1,4 @@
-package com.neo.dao;
+package com.neo.Repository;
 
 import com.neo.entity.UserInfo;
 import org.springframework.data.repository.CrudRepository;
